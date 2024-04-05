@@ -118,7 +118,7 @@ def uaku():
         for ub in ua:
             ugen.append(ub)
     except:
-        a=requests.get('https://github.com/Avi-xwd-30/Avi-xwd-30/blob/main'').text
+        a=requests.get('https://github.com/Avi-xwd-30/Avi-xwd-30/blob/main').text
         ua=open('bbnew.txt','w')
         aa=re.findall('line">(.*?)<',str(a))
         for un in aa:
