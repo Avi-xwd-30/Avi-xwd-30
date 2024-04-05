@@ -293,7 +293,7 @@ def meyexudi():
   except:
     sys.exit()
 meyexudi()
-#os.system("python ASIF.py")
+#os.system("python AVINASH.py")
 def naima():
 	print('-------------------')
 print(logo)
@@ -388,7 +388,7 @@ def menu():
     elif ASIF in ['1']:
         crack_file()
     elif ASIF in ['2','02']:
-        os.system('xdg-open https://github.com/Avi-xwd-30/Avi-xwd-30/blob/main'')
+        os.system('xdg-open https://github.com/Avi-xwd-30/Avi-xwd-30/blob/main')
         os.system("python nono.py")
     elif ASIF in ['3','03']:
         result()
@@ -626,7 +626,7 @@ def setting():
     print("\x1b[1;93m╚══\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \x1b[38;5;50m CP ID [\x1b[38;5;50m2\x1b[1;95m]")
     print('\x1b[38;5;50m==================')
     hc = input('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
-    #os.system("xdg-open https://www.facebook.com/ASIF.King.Ok.Bro")
+    #os.system("xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
