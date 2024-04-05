@@ -221,7 +221,7 @@ def linex():
     print('\033[1;37m')
 def animation(u):
     for e in u + "\n":sys.stdout.write(e);sys.stdout.flush();time.sleep(0.01)
-os.system('xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share'')
+os.system('xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share')
 logo =(f"""
 \033[0;92m╔━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╗
 ║   
@@ -623,7 +623,7 @@ def setting():
     print("\x1b[1;93m╚══\033[1;91m[\033[1;92m2\033[1;91m]\033[1;92m \x1b[38;5;50m CP ID [\x1b[38;5;50m2\x1b[1;95m]")
     print('\x1b[38;5;50m==================')
     hc = input('\033[1;91m[\033[1;92m√\033[1;91m] \033[1;96mCHOOSE: ')
-    #os.system("xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share'")
+    #os.system("xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share")
     if hc in ['1','01']:
         method.append('mobile')
     elif hc in ['2','02']:
