@@ -215,7 +215,7 @@ def clear():
 def back():
     login()
 def contact():
-    os.system('xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share'')
+    os.system('xdg-open https://www.facebook.com/avinash.don.9028?mibextid=ZbWKwL/?ref=share')
     back()
 def linex():
     print('\033[1;37m')
